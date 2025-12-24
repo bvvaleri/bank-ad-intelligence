@@ -6,8 +6,6 @@ It solves the problem of **competitive advertising intelligence** by automatical
 
 Instead of manual monitoring and static reports, the solution delivers **continuously updated analytics and proactive alerts** for marketing and strategy teams.
 
-## End-to-End Architecture
-
 ![Architecture Diagram](docs/architecture.png)
 
 ---
