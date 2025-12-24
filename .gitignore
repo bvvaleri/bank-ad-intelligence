@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# local folders not for repo
+out/
+google/
+
+# python env/cache
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.DS_Store
