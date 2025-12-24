@@ -8,7 +8,7 @@ Instead of manual monitoring and static reports, the solution delivers **continu
 
 ## End-to-End Architecture
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](docs/architecture.png)
 
 ---
 
